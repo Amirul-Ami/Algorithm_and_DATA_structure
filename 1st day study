@@ -1,0 +1,14 @@
+# what is an Algorithm
+# class room assignment
+# Algorithmic thinking
+# Game
+# Algorithm -> *clear problem statement
+
+  i) Algorithm is sets of problem that solves that problems
+ ii) Algorithm definition must contain specific set of instruction in a particular order, we really need to be clear about the order and which these instruction are executed.
+iii) Each step in our algorithm definition is not be a complex one and need to be explicitly clear.
+ iv) Algorithm should produce a result.
+  v) Algorithm should actually complete and not take an infinite amount of time
+
+# Problem solving guidelines ->  ** Brekdown the problem into any possible number of small problems,
+                                         where each problem clearly define INPUTS and OUTPUTS.
