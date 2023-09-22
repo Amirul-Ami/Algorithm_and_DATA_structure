@@ -1,0 +1,37 @@
+What is a Data Structure?
+A data structure (DS) is a way of organizing data so that it can be sue effectively.
+
+Why Data Structure?
+@ They are essential ingredients in creating fast and powerful algorithms.
+@ They help to manage and organize data.
+@ They make code cleaner and easier to understand.
+ 
+
+Abstract Data type:
+@ An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to.
+The interface does not give any specific detail about how something implemented or in what programming language.
+example: 
+(suppose that your abstraction data type is for a mode of transportation to get from point A to point B. as we both know there are many modes of transportation to get from one place to another. So which one do you choose?)
+Some specific modes of transportation might be walking or biking, perhaps even taking a train and so on, these specific modes of transportation would be analogous to the data structure themselves.
+We want to get from one place to another through some mode of transportation, that was our Abstract data type.
+How did we do that exactly?
+: “That is the data structure.”
+
+Some example of abstraction data type:
+	
+Abstraction (ADT)	        Implementation (DS)
+----------------------------------------------
+List	                      Dynamic Array
+                            Linked List
+
+Queue	                Linked List based Queue
+                          Array based Queue
+                          Stack base Queue
+
+Map	                        Tree Map
+                      Hash Map/ Hash Table
+
+Vehicle                  	Golf Cart
+                          Bicycle
+                          Smart Car
+
